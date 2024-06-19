@@ -1,12 +1,13 @@
 import React from 'react';
 import './header.css';
 import logo2 from "./assets/images/Vector.svg"
+import logo from "./assets/Logo.jpg"
 
 const Header = () => {
   return (
     <header className="header">
       <div className="logo">
-        <img src={logo2} alt="logo1" width={50} height={40} ></img>
+        <img src={logo} alt="logo1" width={50} height={40} ></img>
         <span className='inspiration-regular'>Ik developers</span>
       </div>
       <nav>
