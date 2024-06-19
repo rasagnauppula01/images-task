@@ -3,6 +3,7 @@
  import React from 'react';
 import Header from './header';
 import HeroSection from './hero';
+import Services from './services';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
 
       <Header/>
       <HeroSection/>
+      <Services/>
     </div>
   );
 }
