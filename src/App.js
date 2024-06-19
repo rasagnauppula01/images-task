@@ -5,6 +5,8 @@ import Header from './header';
 import HeroSection from './hero';
 import Services from './services';
 import CompaniesTrust from './companiesTrust';
+import PeopleWork from './peoplework';
+import CaseStudies from './caseStudies';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <HeroSection/>
       <Services/>
       <CompaniesTrust/>
+      <PeopleWork/>
+      <CaseStudies/>
     </div>
   );
 }
