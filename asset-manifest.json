@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/images-task/static/css/main.8d8283d6.css",
-    "main.js": "/images-task/static/js/main.930f10c9.js",
+    "main.css": "/images-task/static/css/main.aab08b59.css",
+    "main.js": "/images-task/static/js/main.b6731751.js",
     "static/js/453.ed3810f9.chunk.js": "/images-task/static/js/453.ed3810f9.chunk.js",
     "static/media/service-img3.png": "/images-task/static/media/service-img3.ac1fa4c86bb232851217.png",
     "static/media/service-img1.png": "/images-task/static/media/service-img1.9e0985872bd03293a849.png",
+    "static/media/Rectangle 17.png": "/images-task/static/media/Rectangle 17.3903ae1eb4f406c0459e.png",
     "static/media/service-img2.png": "/images-task/static/media/service-img2.c0d761816ada792be433.png",
+    "static/media/Rectangle 18.png": "/images-task/static/media/Rectangle 18.5a6e5b39fddae8b7d6e3.png",
+    "static/media/Rectangle 19.png": "/images-task/static/media/Rectangle 19.ab2a8989dd5fb24534a8.png",
     "static/media/About-us-Video.png": "/images-task/static/media/About-us-Video.b107bb6c68aeb7ea8034.png",
     "static/media/CaseStudy3.png": "/images-task/static/media/CaseStudy3.03723442505f0078f519.png",
     "static/media/HeroImage.jpg": "/images-task/static/media/HeroImage.c8fc17713f9ba694e46e.jpg",
@@ -17,14 +20,15 @@
     "static/media/Group 2 (4).png": "/images-task/static/media/Group 2 (4).aea7c690abf6c9f7057d.png",
     "static/media/Group 2 (2).png": "/images-task/static/media/Group 2 (2).2be105bf81f93ae7d4f0.png",
     "static/media/Group 2 (3).png": "/images-task/static/media/Group 2 (3).2033c8a3802770dee113.png",
+    "static/media/google-img.png": "/images-task/static/media/google-img.e04dceaacc1d589eebe5.png",
     "static/media/Frame 22.png": "/images-task/static/media/Frame 22.4384a3d9428d2c743186.png",
     "index.html": "/images-task/index.html",
-    "main.8d8283d6.css.map": "/images-task/static/css/main.8d8283d6.css.map",
-    "main.930f10c9.js.map": "/images-task/static/js/main.930f10c9.js.map",
+    "main.aab08b59.css.map": "/images-task/static/css/main.aab08b59.css.map",
+    "main.b6731751.js.map": "/images-task/static/js/main.b6731751.js.map",
     "453.ed3810f9.chunk.js.map": "/images-task/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d8283d6.css",
-    "static/js/main.930f10c9.js"
+    "static/css/main.aab08b59.css",
+    "static/js/main.b6731751.js"
   ]
 }
