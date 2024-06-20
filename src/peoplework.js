@@ -32,7 +32,7 @@ const PeopleWork = () => {
       <section className="partners">
       <div className='linePeople'></div>
         {/* <h2>Meet the People<br /><span >We are Working With</span></h2> */}
-        <img src={text} style={{marginLeft:"-56rem", marginTop:"1rem"}}></img>
+        <img src={text} alt='text' style={{marginLeft:"-56rem", marginTop:"1rem"}}></img>
         <div>
         <div className='buttons'>
           <img src={arrows} alt='arrow'></img>

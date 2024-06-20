@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="footer-section about">
                     {/* <img src="path-to-logo" alt="Company Logo" className="logo" />  */}
                     <div className="logo" style={{margin:"auto",marginTop:"5px"}}>
-                        <img src={image1} width={190} height={65}  ></img>
+                        <img src={image1} alt='logo' width={190} height={65}  ></img>
                         <span className='inspiration-regular' style={{}}>Ik developers</span>
                     </div>
                     <br></br>

@@ -43,7 +43,7 @@ const Services = () => {
       </div>
 
       <div className='slide'>
-        <img src={slider}></img>
+        <img src={slider} alt='slider'></img>
       </div>
       {/* <div className="gdd">
         <div className="gd11"></div>

@@ -13,7 +13,7 @@ const HireBanner = () => {
             Hire Top Developers
           </button>
           <div className="button-linesH">
-            <img src={banner}></img>
+            <img src={banner} alt='banner'></img>
           </div>
         </div>
       </div>
